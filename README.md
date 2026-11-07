@@ -1,10 +1,10 @@
 # Practice_readme
-It is Practice repo
-# Hello, I am YOUR NAME
+It is a practice repo
+# Hello, I am Tanishka
 
-*College or field:* YOUR COLLEGE OR FIELD
+*College or field:* BVDU (CSBS)
 
-*City:* YOUR CITY
+*City:* Navi Mumbai
 
 ## About me
 
