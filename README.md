@@ -11,9 +11,7 @@ It is a practice repo
 Write 2 or 3 short sentences about yourself.
 
 ## What I want to learn
-
-•⁠  ⁠One thing
-•⁠  ⁠Another thing
+I want to learn cooking 
 
 ## My favourite food
 
